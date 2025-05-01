@@ -1,0 +1,3572 @@
+[
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=40&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/infusion-des-marmottes-tilleul-verveine-40.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/infusion-des-marmottes-tilleul-verveine-40.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "40",
+    "price": "5,55 €",
+    "reference": "08",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion tilleul et verveine</h3>\n<p>Avec les 7 plantes de notre INFUSION DES MARMOTTES, son tilleul, sa verveine et ses pétales d'oranger, vous allez vous reposer sur leurs 4 oreilles.</p>",
+    "link_rewrite": "infusion-des-marmottes-tilleul-verveine",
+    "name": "Infusion des Marmottes",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/infusion-des-marmottes-tilleul-verveine-40.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/1730-cart_default/infusion-des-marmottes-tilleul-verveine.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media3.les2marmottes.com/1730-small_default/infusion-des-marmottes-tilleul-verveine.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media2.les2marmottes.com/1730-medium_default/infusion-des-marmottes-tilleul-verveine.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/1730-home_default/infusion-des-marmottes-tilleul-verveine.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media2.les2marmottes.com/1730-large_default/infusion-des-marmottes-tilleul-verveine.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media2.les2marmottes.com/1730-thickbox_default/infusion-des-marmottes-tilleul-verveine.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/1730-cart_default/infusion-des-marmottes-tilleul-verveine.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/1730-home_default/infusion-des-marmottes-tilleul-verveine.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media2.les2marmottes.com/1730-thickbox_default/infusion-des-marmottes-tilleul-verveine.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion des Marmottes tilleul verveine pétales d'oranger Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "1730",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.55,
+    "regular_price_amount": 5.55,
+    "regular_price": "5,55 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=56&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/thym-56.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/thym-56.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "56",
+    "price": "5,45 €",
+    "reference": "10",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion 100% Thym</h3>\n<p></p>\n<p>Rien d'autre que du <strong>THYM</strong>, un souffle d'air frais pour vous désencombrer.</p>\n<p></p>\n<div class=\"h3\">On respire...</div>",
+    "link_rewrite": "thym",
+    "name": "Infusion Thym",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/thym-56.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/1747-cart_default/thym.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/1747-small_default/thym.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media2.les2marmottes.com/1747-medium_default/thym.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media3.les2marmottes.com/1747-home_default/thym.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media1.les2marmottes.com/1747-large_default/thym.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media2.les2marmottes.com/1747-thickbox_default/thym.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/1747-cart_default/thym.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media3.les2marmottes.com/1747-home_default/thym.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media2.les2marmottes.com/1747-thickbox_default/thym.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion thym 100% plantes Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "1747",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.45,
+    "regular_price_amount": 5.45,
+    "regular_price": "5,45 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=90&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/fee-nuit-fenouil-verveine-90.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/fee-nuit-fenouil-verveine-90.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "90",
+    "price": "5,55 €",
+    "reference": "220",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion fenouil et verveine</h3>\n<p></p>\n<p>Fenouil, verveine, pétales de fleur d'oranger... un bouquet magique pour une nuit de rêves.</p>\n<p></p>\n<div class=\"h3\">Zzzzzzz...</div>",
+    "link_rewrite": "fee-nuit-fenouil-verveine",
+    "name": "Infusion Fée Nuit",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/fee-nuit-fenouil-verveine-90.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/1727-cart_default/fee-nuit-fenouil-verveine.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/1727-small_default/fee-nuit-fenouil-verveine.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/1727-medium_default/fee-nuit-fenouil-verveine.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/1727-home_default/fee-nuit-fenouil-verveine.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/1727-large_default/fee-nuit-fenouil-verveine.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/1727-thickbox_default/fee-nuit-fenouil-verveine.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/1727-cart_default/fee-nuit-fenouil-verveine.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/1727-home_default/fee-nuit-fenouil-verveine.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/1727-thickbox_default/fee-nuit-fenouil-verveine.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion Fée Nuit fenouil verveine pétales d'oranger Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "1727",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.55,
+    "regular_price_amount": 5.55,
+    "regular_price": "5,55 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=11578&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/boite-assortiment-decouverte-infusions-thes-sans-aromes-ajoutes-11578.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/boite-assortiment-decouverte-infusions-thes-sans-aromes-ajoutes-11578.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "11578",
+    "price": "9,50 €",
+    "reference": "BFI103",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">30 infusions et thés panachés</h3>\n<p>Idéale pour découvrir les marmottes !</p>",
+    "link_rewrite": "boite-assortiment-decouverte-infusions-thes-sans-aromes-ajoutes",
+    "name": "La boîte découverte",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/boite-assortiment-decouverte-infusions-thes-sans-aromes-ajoutes-11578.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/12733-cart_default/boite-assortiment-decouverte-infusions-thes-sans-aromes-ajoutes.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/12733-small_default/boite-assortiment-decouverte-infusions-thes-sans-aromes-ajoutes.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media3.les2marmottes.com/12733-medium_default/boite-assortiment-decouverte-infusions-thes-sans-aromes-ajoutes.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/12733-home_default/boite-assortiment-decouverte-infusions-thes-sans-aromes-ajoutes.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/12733-large_default/boite-assortiment-decouverte-infusions-thes-sans-aromes-ajoutes.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media2.les2marmottes.com/12733-thickbox_default/boite-assortiment-decouverte-infusions-thes-sans-aromes-ajoutes.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/12733-cart_default/boite-assortiment-decouverte-infusions-thes-sans-aromes-ajoutes.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/12733-home_default/boite-assortiment-decouverte-infusions-thes-sans-aromes-ajoutes.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media2.les2marmottes.com/12733-thickbox_default/boite-assortiment-decouverte-infusions-thes-sans-aromes-ajoutes.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Boîte découverte infusions et thés sans arômes ajoutés : 30 parfums différents",
+      "cover": "1",
+      "id_image": "12733",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 9.5,
+    "regular_price_amount": 9.5,
+    "regular_price": "9,50 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=13911&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/the-vanille-bio-13911.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/the-vanille-bio-13911.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "13911",
+    "price": "5,75 €",
+    "reference": "BFI106",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Thé vanille BIO</h3>\n<p>Un duo <strong>thé noir et vanille</strong> à savourer jusqu’à...</p>\n<div class=\"h3\">la dernière gousse !</div>",
+    "link_rewrite": "the-vanille-bio",
+    "name": "Thé Vanille",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/the-vanille-bio-13911.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/19860-cart_default/the-vanille-bio.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/19860-small_default/the-vanille-bio.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media3.les2marmottes.com/19860-medium_default/the-vanille-bio.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/19860-home_default/the-vanille-bio.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media2.les2marmottes.com/19860-large_default/the-vanille-bio.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/19860-thickbox_default/the-vanille-bio.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/19860-cart_default/the-vanille-bio.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/19860-home_default/the-vanille-bio.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/19860-thickbox_default/the-vanille-bio.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Thé vanille bio avec de la vraie vanille dedans",
+      "cover": "1",
+      "id_image": "19860",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.75,
+    "regular_price_amount": 5.75,
+    "regular_price": "5,75 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=51&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/cocktail-digest-fenouil-anis-vert-sauge-51.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/cocktail-digest-fenouil-anis-vert-sauge-51.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "51",
+    "price": "5,55 €",
+    "reference": "73",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion anis vert, fenouil et sauge</h3>\n<p></p>\n<p>Merci à toi COCKTAIL DIGEST : ton anis vert, ton fenouil et ta sauge soutiennent notre digestion, et nous rendent légers, légers...</p>",
+    "link_rewrite": "cocktail-digest-fenouil-anis-vert-sauge",
+    "name": "Infusion Cocktail Digest",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/cocktail-digest-fenouil-anis-vert-sauge-51.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/14139-cart_default/cocktail-digest-fenouil-anis-vert-sauge.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/14139-small_default/cocktail-digest-fenouil-anis-vert-sauge.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/14139-medium_default/cocktail-digest-fenouil-anis-vert-sauge.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media3.les2marmottes.com/14139-home_default/cocktail-digest-fenouil-anis-vert-sauge.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media1.les2marmottes.com/14139-large_default/cocktail-digest-fenouil-anis-vert-sauge.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/14139-thickbox_default/cocktail-digest-fenouil-anis-vert-sauge.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/14139-cart_default/cocktail-digest-fenouil-anis-vert-sauge.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media3.les2marmottes.com/14139-home_default/cocktail-digest-fenouil-anis-vert-sauge.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/14139-thickbox_default/cocktail-digest-fenouil-anis-vert-sauge.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion Cocktail Digest anis vert fenouil et sauge Les 2 Marmottes - Made In France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "14139",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.55,
+    "regular_price_amount": 5.55,
+    "regular_price": "5,55 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=76&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/fenouil-76.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/fenouil-76.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "76",
+    "price": "5,45 €",
+    "reference": "49",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion aux graines de fenouil</h3>\n<p></p>\n<p>Pas de bon repas sans un bon digestif, prenez-en de la graine !</p>\n<p></p>\n<div class=\"h3\">Santé !</div>",
+    "link_rewrite": "fenouil",
+    "name": "Infusion Fenouil",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/fenouil-76.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/14130-cart_default/fenouil.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media3.les2marmottes.com/14130-small_default/fenouil.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/14130-medium_default/fenouil.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/14130-home_default/fenouil.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media1.les2marmottes.com/14130-large_default/fenouil.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/14130-thickbox_default/fenouil.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/14130-cart_default/fenouil.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/14130-home_default/fenouil.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/14130-thickbox_default/fenouil.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion fenouil 100% plantes Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "14130",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.45,
+    "regular_price_amount": 5.45,
+    "regular_price": "5,45 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=70&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/menthe-tilleul-verveine-70.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/menthe-tilleul-verveine-70.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "70",
+    "price": "5,55 €",
+    "reference": "23",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion feuilles de menthe, verveine odorante et tilleul</h3>\n<p></p>\n<p>Un trio qui se plie en quatre pour une expérience haute en saveurs.</p>\n<p></p>\n<div class=\"h3\">3, 2, in...fusez !</div>",
+    "link_rewrite": "menthe-tilleul-verveine",
+    "name": "Infusion Menthe Tilleul Verveine",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/menthe-tilleul-verveine-70.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media3.les2marmottes.com/14137-cart_default/menthe-tilleul-verveine.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/14137-small_default/menthe-tilleul-verveine.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/14137-medium_default/menthe-tilleul-verveine.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/14137-home_default/menthe-tilleul-verveine.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/14137-large_default/menthe-tilleul-verveine.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media2.les2marmottes.com/14137-thickbox_default/menthe-tilleul-verveine.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media3.les2marmottes.com/14137-cart_default/menthe-tilleul-verveine.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/14137-home_default/menthe-tilleul-verveine.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media2.les2marmottes.com/14137-thickbox_default/menthe-tilleul-verveine.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion Menthe Tilleul Verveine Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "14137",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.55,
+    "regular_price_amount": 5.55,
+    "regular_price": "5,55 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=12671&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/infusion-relax-et-moi-tisane-tilleul-verveine-camomille-12671.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/infusion-relax-et-moi-tisane-tilleul-verveine-camomille-12671.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "12671",
+    "price": "5,65 €",
+    "reference": "BFI105",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion tilleul, camomille et pétales d’oranger</h3>\n<p>Besoin de rien, envie de calme...</p>\n<p>On se relaxe !</p>",
+    "link_rewrite": "infusion-relax-et-moi-tisane-tilleul-verveine-camomille",
+    "name": "Infusion Relax et Moi",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/infusion-relax-et-moi-tisane-tilleul-verveine-camomille-12671.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/14181-cart_default/infusion-relax-et-moi-tisane-tilleul-verveine-camomille.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/14181-small_default/infusion-relax-et-moi-tisane-tilleul-verveine-camomille.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media2.les2marmottes.com/14181-medium_default/infusion-relax-et-moi-tisane-tilleul-verveine-camomille.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/14181-home_default/infusion-relax-et-moi-tisane-tilleul-verveine-camomille.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/14181-large_default/infusion-relax-et-moi-tisane-tilleul-verveine-camomille.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/14181-thickbox_default/infusion-relax-et-moi-tisane-tilleul-verveine-camomille.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/14181-cart_default/infusion-relax-et-moi-tisane-tilleul-verveine-camomille.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/14181-home_default/infusion-relax-et-moi-tisane-tilleul-verveine-camomille.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/14181-thickbox_default/infusion-relax-et-moi-tisane-tilleul-verveine-camomille.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Relax et Moi, infusion camomille verveine tilleul pour se détendre",
+      "cover": "1",
+      "id_image": "14181",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.65,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=18621&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/coup-de-boost-infusion-energie-hibiscus-18621.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/coup-de-boost-infusion-energie-hibiscus-18621.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "18621",
+    "price": "5,65 €",
+    "reference": "BFI108",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion fleur d'hibiscus</h3>\n<p>Quoi de mieux que des fleurs d'hibiscus pour dynamiser votre journée !</p>\n<div class=\"h3\">On enclenche le turbo !</div>",
+    "link_rewrite": "coup-de-boost-infusion-energie-hibiscus",
+    "name": "Infusion Coup de Boost",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/coup-de-boost-infusion-energie-hibiscus-18621.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media3.les2marmottes.com/21603-cart_default/coup-de-boost-infusion-energie-hibiscus.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/21603-small_default/coup-de-boost-infusion-energie-hibiscus.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/21603-medium_default/coup-de-boost-infusion-energie-hibiscus.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/21603-home_default/coup-de-boost-infusion-energie-hibiscus.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/21603-large_default/coup-de-boost-infusion-energie-hibiscus.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/21603-thickbox_default/coup-de-boost-infusion-energie-hibiscus.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media3.les2marmottes.com/21603-cart_default/coup-de-boost-infusion-energie-hibiscus.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/21603-home_default/coup-de-boost-infusion-energie-hibiscus.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/21603-thickbox_default/coup-de-boost-infusion-energie-hibiscus.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion energisante pour le matin : Coup de Boost, à la fleur d'hibiscus",
+      "cover": "1",
+      "id_image": "21603",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.65,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=3952&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/citron-gingembre-3952.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/citron-gingembre-3952.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "3952",
+    "price": "5,65 €",
+    "reference": "BFI067",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion Citron Gingembre</h3>\n<p></p>\n<p>Gingembre et citron, l’infusion qui aime souffler le chaud et le froid.</p>",
+    "link_rewrite": "citron-gingembre",
+    "name": "Infusion Citron Gingembre",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/citron-gingembre-3952.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/14128-cart_default/citron-gingembre.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/14128-small_default/citron-gingembre.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media3.les2marmottes.com/14128-medium_default/citron-gingembre.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media3.les2marmottes.com/14128-home_default/citron-gingembre.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/14128-large_default/citron-gingembre.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/14128-thickbox_default/citron-gingembre.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/14128-cart_default/citron-gingembre.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media3.les2marmottes.com/14128-home_default/citron-gingembre.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/14128-thickbox_default/citron-gingembre.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion Citron Gingembre sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "14128",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.65,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=50&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/frissons-d-hiver-ecorce-cannelle-thym-girofle-50.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/frissons-d-hiver-ecorce-cannelle-thym-girofle-50.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "50",
+    "price": "5,55 €",
+    "reference": "71",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion écorce de cannelle et thym</h3>\n<p></p>\n<p>Écorce de cannelle, thym et girofle en font l'infusion officielle des frileux.</p>\n<p></p>\n<div class=\"h3\">Même pas froid !</div>",
+    "link_rewrite": "frissons-d-hiver-ecorce-cannelle-thym-girofle",
+    "name": "Infusion Frissons d'Hiver",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/frissons-d-hiver-ecorce-cannelle-thym-girofle-50.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media3.les2marmottes.com/1753-cart_default/frissons-d-hiver-ecorce-cannelle-thym-girofle.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media3.les2marmottes.com/1753-small_default/frissons-d-hiver-ecorce-cannelle-thym-girofle.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media2.les2marmottes.com/1753-medium_default/frissons-d-hiver-ecorce-cannelle-thym-girofle.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/1753-home_default/frissons-d-hiver-ecorce-cannelle-thym-girofle.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media2.les2marmottes.com/1753-large_default/frissons-d-hiver-ecorce-cannelle-thym-girofle.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/1753-thickbox_default/frissons-d-hiver-ecorce-cannelle-thym-girofle.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media3.les2marmottes.com/1753-cart_default/frissons-d-hiver-ecorce-cannelle-thym-girofle.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/1753-home_default/frissons-d-hiver-ecorce-cannelle-thym-girofle.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/1753-thickbox_default/frissons-d-hiver-ecorce-cannelle-thym-girofle.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion Frissons d'hiver - cannelle, girofle et thym - Les 2 Marmottes - Made in France - sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "1753",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.55,
+    "regular_price_amount": 5.55,
+    "regular_price": "5,55 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=3953&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/123-sommeil-melisse-camomille-3953.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/123-sommeil-melisse-camomille-3953.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "3953",
+    "price": "5,65 €",
+    "reference": "BFI068",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion Mélisse, Citron et Camomille</h3>\n<p></p>\n<p>Mélisse, citron et camomille, un trio berçant pour un sommeil reposant.</p>\n<p></p>\n<div class=\"h3\">En route pour la paix des méninges !</div>",
+    "link_rewrite": "123-sommeil-melisse-camomille",
+    "name": "Infusion 1,2,3… Sommeil !",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/123-sommeil-melisse-camomille-3953.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/4466-cart_default/123-sommeil-melisse-camomille.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/4466-small_default/123-sommeil-melisse-camomille.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media3.les2marmottes.com/4466-medium_default/123-sommeil-melisse-camomille.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/4466-home_default/123-sommeil-melisse-camomille.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media2.les2marmottes.com/4466-large_default/123-sommeil-melisse-camomille.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/4466-thickbox_default/123-sommeil-melisse-camomille.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/4466-cart_default/123-sommeil-melisse-camomille.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/4466-home_default/123-sommeil-melisse-camomille.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/4466-thickbox_default/123-sommeil-melisse-camomille.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Tisane pour dormir 123 Sommeil",
+      "cover": "1",
+      "id_image": "4466",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.65,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=18804&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/the-earl-grey-bio-vraie-bergamote-18804.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/the-earl-grey-bio-vraie-bergamote-18804.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "18804",
+    "price": "5,75 €",
+    "reference": "BFI109",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Thé noir Earl Grey BIO à la bergamote</h3>\n<p>50 nuances de goûts dans ce thé noir avec de...</p>\n<div class=\"h3\"><strong>La bergamote qui nous botte !</strong></div>",
+    "link_rewrite": "the-earl-grey-bio-vraie-bergamote",
+    "name": "Thé Earl Grey",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/the-earl-grey-bio-vraie-bergamote-18804.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/21895-cart_default/the-earl-grey-bio-vraie-bergamote.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media3.les2marmottes.com/21895-small_default/the-earl-grey-bio-vraie-bergamote.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media3.les2marmottes.com/21895-medium_default/the-earl-grey-bio-vraie-bergamote.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/21895-home_default/the-earl-grey-bio-vraie-bergamote.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/21895-large_default/the-earl-grey-bio-vraie-bergamote.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/21895-thickbox_default/the-earl-grey-bio-vraie-bergamote.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/21895-cart_default/the-earl-grey-bio-vraie-bergamote.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/21895-home_default/the-earl-grey-bio-vraie-bergamote.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/21895-thickbox_default/the-earl-grey-bio-vraie-bergamote.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Thé Earl Grey Bio avec vraie bergamote",
+      "cover": "1",
+      "id_image": "21895",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.75,
+    "regular_price_amount": 5.75,
+    "regular_price": "5,75 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=157&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/apres-ski-157.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/apres-ski-157.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "157",
+    "price": "4,00 €",
+    "reference": "232",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion Thym, citron et eucalyptus</h3>\n<p></p>\n<p>Bouquet plein de promesses, de quoi remonter la pente !</p>",
+    "link_rewrite": "apres-ski",
+    "name": "Infusion Après-Ski",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/apres-ski-157.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/22294-cart_default/apres-ski.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media3.les2marmottes.com/22294-small_default/apres-ski.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/22294-medium_default/apres-ski.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media3.les2marmottes.com/22294-home_default/apres-ski.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media2.les2marmottes.com/22294-large_default/apres-ski.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media2.les2marmottes.com/22294-thickbox_default/apres-ski.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/22294-cart_default/apres-ski.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media3.les2marmottes.com/22294-home_default/apres-ski.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media2.les2marmottes.com/22294-thickbox_default/apres-ski.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Cet article fait partie de la sélection vide-terrier",
+      "cover": "1",
+      "id_image": "22294",
+      "position": "9",
+      "associatedVariants": []
+    },
+    "has_discount": true,
+    "discount_type": "amount",
+    "discount_percentage": "-160%",
+    "discount_percentage_absolute": "160%",
+    "discount_amount": "1,60 €",
+    "price_amount": 4,
+    "regular_price_amount": 5.6,
+    "regular_price": "5,60 €",
+    "discount_to_display": "1,60 €"
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=10168&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/the-citron-the-noir-et-vert-aux-fruits-10168.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/the-citron-the-noir-et-vert-aux-fruits-10168.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "10168",
+    "price": "5,75 €",
+    "reference": "BFI094",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Thé noir et vert, citron…</h3>\n<p>Le p’tit coup de pep’s au naturel ! </p>",
+    "link_rewrite": "the-citron-the-noir-et-vert-aux-fruits",
+    "name": "Thé Citron",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/the-citron-the-noir-et-vert-aux-fruits-10168.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/14126-cart_default/the-citron-the-noir-et-vert-aux-fruits.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/14126-small_default/the-citron-the-noir-et-vert-aux-fruits.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media2.les2marmottes.com/14126-medium_default/the-citron-the-noir-et-vert-aux-fruits.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/14126-home_default/the-citron-the-noir-et-vert-aux-fruits.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media2.les2marmottes.com/14126-large_default/the-citron-the-noir-et-vert-aux-fruits.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/14126-thickbox_default/the-citron-the-noir-et-vert-aux-fruits.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/14126-cart_default/the-citron-the-noir-et-vert-aux-fruits.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/14126-home_default/the-citron-the-noir-et-vert-aux-fruits.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/14126-thickbox_default/the-citron-the-noir-et-vert-aux-fruits.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Thé citron bio sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "14126",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.75,
+    "regular_price_amount": 5.75,
+    "regular_price": "5,75 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=88&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/retour-de-soiree-romarin-menthe-88.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/retour-de-soiree-romarin-menthe-88.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "88",
+    "price": "5,55 €",
+    "reference": "218",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion BIO romarin et menthe douce</h3>\n<p></p>\n<p>Romarin, menthe et citron vert : coup de pouce de la nature pour ne pas se lever à l'ouest.</p>\n<p></p>\n<div class=\"h3\">À boire sans modération</div>",
+    "link_rewrite": "retour-de-soiree-romarin-menthe",
+    "name": "Infusion Retour de Soirée",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/retour-de-soiree-romarin-menthe-88.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/14133-cart_default/retour-de-soiree-romarin-menthe.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/14133-small_default/retour-de-soiree-romarin-menthe.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media3.les2marmottes.com/14133-medium_default/retour-de-soiree-romarin-menthe.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media3.les2marmottes.com/14133-home_default/retour-de-soiree-romarin-menthe.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media1.les2marmottes.com/14133-large_default/retour-de-soiree-romarin-menthe.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/14133-thickbox_default/retour-de-soiree-romarin-menthe.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/14133-cart_default/retour-de-soiree-romarin-menthe.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media3.les2marmottes.com/14133-home_default/retour-de-soiree-romarin-menthe.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/14133-thickbox_default/retour-de-soiree-romarin-menthe.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion Retour de Soirée romarin menthe citron Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "14133",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.55,
+    "regular_price_amount": 5.55,
+    "regular_price": "5,55 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=43&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/detox-et-vous-curcuma-romarin-43.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/detox-et-vous-curcuma-romarin-43.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "43",
+    "price": "5,65 €",
+    "reference": "114",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion curcuma et romarin</h3>\n<p></p>\n<p>Foi(e) de marmottes, DÉTOX ET VOUS ! Entre curcuma, romarin et citronnelle, la cure sera encore plus belle.</p>\n<p></p>\n<div class=\"h3\">On se motive !</div>",
+    "link_rewrite": "detox-et-vous-curcuma-romarin",
+    "name": "Infusion Detox et Vous",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/detox-et-vous-curcuma-romarin-43.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/1725-cart_default/detox-et-vous-curcuma-romarin.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media3.les2marmottes.com/1725-small_default/detox-et-vous-curcuma-romarin.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media3.les2marmottes.com/1725-medium_default/detox-et-vous-curcuma-romarin.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/1725-home_default/detox-et-vous-curcuma-romarin.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media1.les2marmottes.com/1725-large_default/detox-et-vous-curcuma-romarin.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media2.les2marmottes.com/1725-thickbox_default/detox-et-vous-curcuma-romarin.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/1725-cart_default/detox-et-vous-curcuma-romarin.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/1725-home_default/detox-et-vous-curcuma-romarin.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media2.les2marmottes.com/1725-thickbox_default/detox-et-vous-curcuma-romarin.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion Detox et Vous curcuma et romarin Les 2 Marmottes - Made In France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "1725",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.65,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=83&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/agrumes-citron-orange-bergamote-83.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/agrumes-citron-orange-bergamote-83.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "83",
+    "price": "5,65 €",
+    "reference": "213",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion citron, orange et bergamote</h3>\n<p></p>\n<p>Citron, orange sanguine et bergamote : tous ces zestes ont vraiment du peps !</p>",
+    "link_rewrite": "agrumes-citron-orange-bergamote",
+    "name": "Infusion Agrumes",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/agrumes-citron-orange-bergamote-83.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/14135-cart_default/agrumes-citron-orange-bergamote.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/14135-small_default/agrumes-citron-orange-bergamote.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/14135-medium_default/agrumes-citron-orange-bergamote.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/14135-home_default/agrumes-citron-orange-bergamote.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media1.les2marmottes.com/14135-large_default/agrumes-citron-orange-bergamote.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media2.les2marmottes.com/14135-thickbox_default/agrumes-citron-orange-bergamote.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/14135-cart_default/agrumes-citron-orange-bergamote.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/14135-home_default/agrumes-citron-orange-bergamote.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media2.les2marmottes.com/14135-thickbox_default/agrumes-citron-orange-bergamote.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion Agrumes citron orange bergamote Les 2 Marmottes - Made in France - sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "14135",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.65,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=7841&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/the-menthole-the-vert-a-la-menthe-7841.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/the-menthole-the-vert-a-la-menthe-7841.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "7841",
+    "price": "5,65 €",
+    "reference": "BFI082",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Thé vert BIO à la menthe douce et poivrée</h3>\n<p>Menthe douce, menthe poivrée et thé vert : quel effet !</p>",
+    "link_rewrite": "the-menthole-the-vert-a-la-menthe",
+    "name": "Thé Menth'olé",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/the-menthole-the-vert-a-la-menthe-7841.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/14125-cart_default/the-menthole-the-vert-a-la-menthe.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/14125-small_default/the-menthole-the-vert-a-la-menthe.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/14125-medium_default/the-menthole-the-vert-a-la-menthe.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/14125-home_default/the-menthole-the-vert-a-la-menthe.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media2.les2marmottes.com/14125-large_default/the-menthole-the-vert-a-la-menthe.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/14125-thickbox_default/the-menthole-the-vert-a-la-menthe.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/14125-cart_default/the-menthole-the-vert-a-la-menthe.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/14125-home_default/the-menthole-the-vert-a-la-menthe.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/14125-thickbox_default/the-menthole-the-vert-a-la-menthe.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Thé vert à la menthe biologique Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "14125",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.65,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=84&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/melee-de-fruits-cassis-framboise-pomme-84.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/melee-de-fruits-cassis-framboise-pomme-84.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "84",
+    "price": "5,65 €",
+    "reference": "214",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion cassis, framboise et airelle</h3>\n<p></p>\n<p>Cassis, framboise, airelle : tellement fruités qu'ils vont vous faire rougir de plaisir.</p>",
+    "link_rewrite": "melee-de-fruits-cassis-framboise-pomme",
+    "name": "Infusion Mêlée de Fruits",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/melee-de-fruits-cassis-framboise-pomme-84.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media3.les2marmottes.com/14131-cart_default/melee-de-fruits-cassis-framboise-pomme.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media3.les2marmottes.com/14131-small_default/melee-de-fruits-cassis-framboise-pomme.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/14131-medium_default/melee-de-fruits-cassis-framboise-pomme.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/14131-home_default/melee-de-fruits-cassis-framboise-pomme.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media1.les2marmottes.com/14131-large_default/melee-de-fruits-cassis-framboise-pomme.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/14131-thickbox_default/melee-de-fruits-cassis-framboise-pomme.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media3.les2marmottes.com/14131-cart_default/melee-de-fruits-cassis-framboise-pomme.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/14131-home_default/melee-de-fruits-cassis-framboise-pomme.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/14131-thickbox_default/melee-de-fruits-cassis-framboise-pomme.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion fruits rouges sans arômes ajoutés : Mêlée de Fruits, cassis framboise airelle",
+      "cover": "1",
+      "id_image": "14131",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.65,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=68&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/camomille-matricaire-68.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/camomille-matricaire-68.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "68",
+    "price": "5,45 €",
+    "reference": "22",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion aux fleurs de camomille matricaire</h3>\n<p></p>\n<p>Faites-vous une petite fleur avant de vous endormir.</p>\n<p></p>\n<div class=\"h3\">Relax...</div>",
+    "link_rewrite": "camomille-matricaire",
+    "name": "Infusion Camomille",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/camomille-matricaire-68.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/1720-cart_default/camomille-matricaire.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/1720-small_default/camomille-matricaire.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media3.les2marmottes.com/1720-medium_default/camomille-matricaire.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/1720-home_default/camomille-matricaire.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media2.les2marmottes.com/1720-large_default/camomille-matricaire.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media2.les2marmottes.com/1720-thickbox_default/camomille-matricaire.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/1720-cart_default/camomille-matricaire.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/1720-home_default/camomille-matricaire.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media2.les2marmottes.com/1720-thickbox_default/camomille-matricaire.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion camomille 100% plantes Les 2 Marmottes - Made In France - sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "1720",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.45,
+    "regular_price_amount": 5.45,
+    "regular_price": "5,45 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=7012&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/tout-schuss-savoie-mont-blanc-infusion-cannelle-sarriette-7012.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/tout-schuss-savoie-mont-blanc-infusion-cannelle-sarriette-7012.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "7012",
+    "price": "4,00 €",
+    "reference": "BFI076",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion sarriette et cannelle</h3>\n<p></p>\n<p>Pour atteindre les sommets !</p>",
+    "link_rewrite": "tout-schuss-savoie-mont-blanc-infusion-cannelle-sarriette",
+    "name": "Infusion Tout Schuss",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/tout-schuss-savoie-mont-blanc-infusion-cannelle-sarriette-7012.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media3.les2marmottes.com/22295-cart_default/tout-schuss-savoie-mont-blanc-infusion-cannelle-sarriette.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/22295-small_default/tout-schuss-savoie-mont-blanc-infusion-cannelle-sarriette.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/22295-medium_default/tout-schuss-savoie-mont-blanc-infusion-cannelle-sarriette.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/22295-home_default/tout-schuss-savoie-mont-blanc-infusion-cannelle-sarriette.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media1.les2marmottes.com/22295-large_default/tout-schuss-savoie-mont-blanc-infusion-cannelle-sarriette.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/22295-thickbox_default/tout-schuss-savoie-mont-blanc-infusion-cannelle-sarriette.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media3.les2marmottes.com/22295-cart_default/tout-schuss-savoie-mont-blanc-infusion-cannelle-sarriette.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/22295-home_default/tout-schuss-savoie-mont-blanc-infusion-cannelle-sarriette.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/22295-thickbox_default/tout-schuss-savoie-mont-blanc-infusion-cannelle-sarriette.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Cet article fait partie de la sélection vide-terrier",
+      "cover": "1",
+      "id_image": "22295",
+      "position": "8",
+      "associatedVariants": []
+    },
+    "has_discount": true,
+    "discount_type": "amount",
+    "discount_percentage": "-160%",
+    "discount_percentage_absolute": "160%",
+    "discount_amount": "1,60 €",
+    "price_amount": 4,
+    "regular_price_amount": 5.600046,
+    "regular_price": "5,60 €",
+    "discount_to_display": "1,60 €"
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=37&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/peace-meme-feuille-cassis-lavande-37.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/peace-meme-feuille-cassis-lavande-37.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "37",
+    "price": "5,55 €",
+    "reference": "0117",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion feuille de cassis et lavande</h3>\n<p>Hey, PEACE MÉMÉ, avec des feuilles de cassis et de la <strong>lavande</strong>, vous laisserez couler la vie.</p>\n<div class=\"h3\">À la cool..</div>",
+    "link_rewrite": "peace-meme-feuille-cassis-lavande",
+    "name": "Infusion Peace Mémé",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/peace-meme-feuille-cassis-lavande-37.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/14138-cart_default/peace-meme-feuille-cassis-lavande.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/14138-small_default/peace-meme-feuille-cassis-lavande.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media3.les2marmottes.com/14138-medium_default/peace-meme-feuille-cassis-lavande.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/14138-home_default/peace-meme-feuille-cassis-lavande.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/14138-large_default/peace-meme-feuille-cassis-lavande.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/14138-thickbox_default/peace-meme-feuille-cassis-lavande.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/14138-cart_default/peace-meme-feuille-cassis-lavande.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/14138-home_default/peace-meme-feuille-cassis-lavande.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/14138-thickbox_default/peace-meme-feuille-cassis-lavande.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion Peace Mémé lavande et feuilles de cassis Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "14138",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.55,
+    "regular_price_amount": 5.55,
+    "regular_price": "5,55 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=87&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/7eme-ciel-poivre-gingembre-87.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/7eme-ciel-poivre-gingembre-87.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "87",
+    "price": "5,55 €",
+    "reference": "217",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion BIO poivre et gingembre</h3>\n<p></p>\n<p>Rendez-vous au 7e CIEL, avec ce bouquet poivre-gingembre réhaussé de guarana. La nuit va être torride !</p>",
+    "link_rewrite": "7eme-ciel-poivre-gingembre",
+    "name": "Infusion 7ème Ciel",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/7eme-ciel-poivre-gingembre-87.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/1715-cart_default/7eme-ciel-poivre-gingembre.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media3.les2marmottes.com/1715-small_default/7eme-ciel-poivre-gingembre.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media3.les2marmottes.com/1715-medium_default/7eme-ciel-poivre-gingembre.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/1715-home_default/7eme-ciel-poivre-gingembre.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/1715-large_default/7eme-ciel-poivre-gingembre.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/1715-thickbox_default/7eme-ciel-poivre-gingembre.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/1715-cart_default/7eme-ciel-poivre-gingembre.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/1715-home_default/7eme-ciel-poivre-gingembre.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/1715-thickbox_default/7eme-ciel-poivre-gingembre.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion gingembre, poivre et guarana 7e ciel Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "1715",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.55,
+    "regular_price_amount": 5.55,
+    "regular_price": "5,55 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=58&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/cynorrhodon-hibiscus-58.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/cynorrhodon-hibiscus-58.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "58",
+    "price": "5,45 €",
+    "reference": "12",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion fruitée cynorrhodon et hibiscus</h3>\n<p></p>\n<p>Faites-vous fouetter par son fruité.</p>",
+    "link_rewrite": "cynorrhodon-hibiscus",
+    "name": "Infusion Cynorrhodon Hibiscus",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/cynorrhodon-hibiscus-58.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/14136-cart_default/cynorrhodon-hibiscus.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/14136-small_default/cynorrhodon-hibiscus.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media2.les2marmottes.com/14136-medium_default/cynorrhodon-hibiscus.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/14136-home_default/cynorrhodon-hibiscus.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media2.les2marmottes.com/14136-large_default/cynorrhodon-hibiscus.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/14136-thickbox_default/cynorrhodon-hibiscus.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/14136-cart_default/cynorrhodon-hibiscus.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/14136-home_default/cynorrhodon-hibiscus.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/14136-thickbox_default/cynorrhodon-hibiscus.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion fruit cynorrhodon hibiscus - Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "14136",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.45,
+    "regular_price_amount": 5.45,
+    "regular_price": "5,45 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=85&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/pomme-cannelle-85.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/pomme-cannelle-85.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "85",
+    "price": "5,65 €",
+    "reference": "215",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion épicée aux écorces de cannelle et pomme</h3>\n<p></p>\n<p>Une recette relevée à la cannelle à vous faire tomber dans les pommes.</p>\n<p></p>\n<div class=\"h3\">C'est ma pomme d'amour !</div>",
+    "link_rewrite": "pomme-cannelle",
+    "name": "Infusion Pomme Cannelle",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/pomme-cannelle-85.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/1736-cart_default/pomme-cannelle.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/1736-small_default/pomme-cannelle.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media2.les2marmottes.com/1736-medium_default/pomme-cannelle.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/1736-home_default/pomme-cannelle.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/1736-large_default/pomme-cannelle.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media2.les2marmottes.com/1736-thickbox_default/pomme-cannelle.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/1736-cart_default/pomme-cannelle.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/1736-home_default/pomme-cannelle.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media2.les2marmottes.com/1736-thickbox_default/pomme-cannelle.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion pomme cannelle Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "1736",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.65,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=61&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/verveine-61.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/verveine-61.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "61",
+    "price": "5,55 €",
+    "reference": "17",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion aux feuilles de verveine BIO</h3>\n<p></p>\n<p>Elle sent bon cette VERVEINE, laissez-vous envoûter.</p>",
+    "link_rewrite": "verveine",
+    "name": "Infusion Verveine",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/verveine-61.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/1749-cart_default/verveine.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/1749-small_default/verveine.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/1749-medium_default/verveine.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media3.les2marmottes.com/1749-home_default/verveine.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/1749-large_default/verveine.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/1749-thickbox_default/verveine.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/1749-cart_default/verveine.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media3.les2marmottes.com/1749-home_default/verveine.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/1749-thickbox_default/verveine.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion verveine 100% plantes Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "1749",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.55,
+    "regular_price_amount": 5.55,
+    "regular_price": "5,55 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=86&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/menthe-reglisse-86.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/menthe-reglisse-86.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "86",
+    "price": "5,55 €",
+    "reference": "216",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion BIO à la réglisse et feuilles de menthe</h3>\n<p></p>\n<p>Tellement fusionnels qu'on ne les croise plus l'un sans l'autre.</p>\n<p></p>\n<div class=\"h3\">À la fraîche !</div>",
+    "link_rewrite": "menthe-reglisse",
+    "name": "Infusion Menthe Réglisse",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/menthe-reglisse-86.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/14134-cart_default/menthe-reglisse.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/14134-small_default/menthe-reglisse.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media3.les2marmottes.com/14134-medium_default/menthe-reglisse.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/14134-home_default/menthe-reglisse.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/14134-large_default/menthe-reglisse.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/14134-thickbox_default/menthe-reglisse.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/14134-cart_default/menthe-reglisse.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/14134-home_default/menthe-reglisse.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/14134-thickbox_default/menthe-reglisse.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion Menthe Réglisse 100% plantes Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "14134",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.55,
+    "regular_price_amount": 5.55,
+    "regular_price": "5,55 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=7843&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/the-reveille-the-noir-assam-7843.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/the-reveille-the-noir-assam-7843.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "7843",
+    "price": "4,00 €",
+    "reference": "BFI084",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Thé noir BIO</h3>\n<p></p>\n<p>D'un caractère tonique et mielleux, ce thé noir est plutôt du matin.</p>\n<p></p>\n<div class=\"h3\">Le réveille-marmotte !</div>",
+    "link_rewrite": "the-reveille-the-noir-assam",
+    "name": "Thé Réveillé ?",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/the-reveille-the-noir-assam-7843.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/22296-cart_default/the-reveille-the-noir-assam.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/22296-small_default/the-reveille-the-noir-assam.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media2.les2marmottes.com/22296-medium_default/the-reveille-the-noir-assam.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/22296-home_default/the-reveille-the-noir-assam.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media2.les2marmottes.com/22296-large_default/the-reveille-the-noir-assam.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/22296-thickbox_default/the-reveille-the-noir-assam.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/22296-cart_default/the-reveille-the-noir-assam.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/22296-home_default/the-reveille-the-noir-assam.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/22296-thickbox_default/the-reveille-the-noir-assam.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Cet article fait partie de la sélection vide-terrier",
+      "cover": "1",
+      "id_image": "22296",
+      "position": "8",
+      "associatedVariants": []
+    },
+    "has_discount": true,
+    "discount_type": "amount",
+    "discount_percentage": "-165%",
+    "discount_percentage_absolute": "165%",
+    "discount_amount": "1,65 €",
+    "price_amount": 4,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": "1,65 €"
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=7013&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/ca-va-fruit-the-noir-framboise-hibiscus-7013.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/ca-va-fruit-the-noir-framboise-hibiscus-7013.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "7013",
+    "price": "4,00 €",
+    "reference": "BFI077",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Thé noir BIO, framboise et hibiscus</h3>\n<p>Thé noir, framboise et hibiscus... Mon p'tit plaisir à moi, c'est toi !</p>",
+    "link_rewrite": "ca-va-fruit-the-noir-framboise-hibiscus",
+    "name": "Ça va Frui'thé",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/ca-va-fruit-the-noir-framboise-hibiscus-7013.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/22297-cart_default/ca-va-fruit-the-noir-framboise-hibiscus.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/22297-small_default/ca-va-fruit-the-noir-framboise-hibiscus.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media2.les2marmottes.com/22297-medium_default/ca-va-fruit-the-noir-framboise-hibiscus.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/22297-home_default/ca-va-fruit-the-noir-framboise-hibiscus.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media1.les2marmottes.com/22297-large_default/ca-va-fruit-the-noir-framboise-hibiscus.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/22297-thickbox_default/ca-va-fruit-the-noir-framboise-hibiscus.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/22297-cart_default/ca-va-fruit-the-noir-framboise-hibiscus.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/22297-home_default/ca-va-fruit-the-noir-framboise-hibiscus.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/22297-thickbox_default/ca-va-fruit-the-noir-framboise-hibiscus.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Cet article fait partie de la sélection vide-terrier",
+      "cover": "1",
+      "id_image": "22297",
+      "position": "9",
+      "associatedVariants": []
+    },
+    "has_discount": true,
+    "discount_type": "amount",
+    "discount_percentage": "-175%",
+    "discount_percentage_absolute": "175%",
+    "discount_amount": "1,75 €",
+    "price_amount": 4,
+    "regular_price_amount": 5.75,
+    "regular_price": "5,75 €",
+    "discount_to_display": "1,75 €"
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=7844&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/the-mince-alors-the-vert-bio-rose-lavande-7844.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/the-mince-alors-the-vert-bio-rose-lavande-7844.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "7844",
+    "price": "5,75 €",
+    "reference": "BFI085",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Thé vert et pétales de rose BIO</h3>\n<p>Un thé fleuri qui vous veut du bien.</p>\n<div class=\"h3\">Mince alors !</div>",
+    "link_rewrite": "the-mince-alors-the-vert-bio-rose-lavande",
+    "name": "Thé Mince Alors ?",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/the-mince-alors-the-vert-bio-rose-lavande-7844.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media3.les2marmottes.com/12443-cart_default/the-mince-alors-the-vert-bio-rose-lavande.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media3.les2marmottes.com/12443-small_default/the-mince-alors-the-vert-bio-rose-lavande.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media3.les2marmottes.com/12443-medium_default/the-mince-alors-the-vert-bio-rose-lavande.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/12443-home_default/the-mince-alors-the-vert-bio-rose-lavande.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media2.les2marmottes.com/12443-large_default/the-mince-alors-the-vert-bio-rose-lavande.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media2.les2marmottes.com/12443-thickbox_default/the-mince-alors-the-vert-bio-rose-lavande.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media3.les2marmottes.com/12443-cart_default/the-mince-alors-the-vert-bio-rose-lavande.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/12443-home_default/the-mince-alors-the-vert-bio-rose-lavande.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media2.les2marmottes.com/12443-thickbox_default/the-mince-alors-the-vert-bio-rose-lavande.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Thé vert bio Mince alors à la rose et à la lavande",
+      "cover": "1",
+      "id_image": "12443",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.75,
+    "regular_price_amount": 5.75,
+    "regular_price": "5,75 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=7014&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/the-fort-epice-chai-bio-7014.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/the-fort-epice-chai-bio-7014.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "7014",
+    "price": "5,75 €",
+    "reference": "BFI078",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Thé noir BIO, cannelle et cardamome</h3>\n<p>Ce <strong>thé Chaï</strong> cannelle et cardamome va vous envou...thé.</p>\n<div class=\"h3\">Épice et tout !</div>",
+    "link_rewrite": "the-fort-epice-chai-bio",
+    "name": "Thé Fort épicé",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/the-fort-epice-chai-bio-7014.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/8716-cart_default/the-fort-epice-chai-bio.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/8716-small_default/the-fort-epice-chai-bio.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media2.les2marmottes.com/8716-medium_default/the-fort-epice-chai-bio.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media1.les2marmottes.com/8716-home_default/the-fort-epice-chai-bio.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media2.les2marmottes.com/8716-large_default/the-fort-epice-chai-bio.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/8716-thickbox_default/the-fort-epice-chai-bio.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/8716-cart_default/the-fort-epice-chai-bio.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media1.les2marmottes.com/8716-home_default/the-fort-epice-chai-bio.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/8716-thickbox_default/the-fort-epice-chai-bio.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Thé Chaï - thé noir épicé biologique Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "8716",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.75,
+    "regular_price_amount": 5.75,
+    "regular_price": "5,75 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=7842&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/the-vert-fleurthe-aux-fleurs-de-jasmin-7842.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/the-vert-fleurthe-aux-fleurs-de-jasmin-7842.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "7842",
+    "price": "5,65 €",
+    "reference": "BFI083",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Thé vert BIO floral au jasmin</h3>\n<p></p>\n<p>Pour un thé vert avec toi, je ferai n’importe quoi.</p>",
+    "link_rewrite": "the-vert-fleurthe-aux-fleurs-de-jasmin",
+    "name": "Fleur’thé Jasmin",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/the-vert-fleurthe-aux-fleurs-de-jasmin-7842.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media3.les2marmottes.com/8717-cart_default/the-vert-fleurthe-aux-fleurs-de-jasmin.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/8717-small_default/the-vert-fleurthe-aux-fleurs-de-jasmin.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/8717-medium_default/the-vert-fleurthe-aux-fleurs-de-jasmin.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/8717-home_default/the-vert-fleurthe-aux-fleurs-de-jasmin.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media2.les2marmottes.com/8717-large_default/the-vert-fleurthe-aux-fleurs-de-jasmin.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/8717-thickbox_default/the-vert-fleurthe-aux-fleurs-de-jasmin.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media3.les2marmottes.com/8717-cart_default/the-vert-fleurthe-aux-fleurs-de-jasmin.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/8717-home_default/the-vert-fleurthe-aux-fleurs-de-jasmin.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/8717-thickbox_default/the-vert-fleurthe-aux-fleurs-de-jasmin.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Thé vert aux fleurs de jasmin biologique Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "8717",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.65,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=13912&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/the-vert-bio-13912.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/the-vert-bio-13912.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "13912",
+    "price": "5,75 €",
+    "reference": "BFI107",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Thé vert BIO</h3>\n<p>Laissez-vous envelopper par la simplicité !</p>",
+    "link_rewrite": "the-vert-bio",
+    "name": "Thé Vert",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/the-vert-bio-13912.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/20759-cart_default/the-vert-bio.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/20759-small_default/the-vert-bio.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/20759-medium_default/the-vert-bio.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/20759-home_default/the-vert-bio.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media2.les2marmottes.com/20759-large_default/the-vert-bio.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media2.les2marmottes.com/20759-thickbox_default/the-vert-bio.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/20759-cart_default/the-vert-bio.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/20759-home_default/the-vert-bio.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media2.les2marmottes.com/20759-thickbox_default/the-vert-bio.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "thé vert nature bio les 2 marmottes",
+      "cover": "1",
+      "id_image": "20759",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.75,
+    "regular_price_amount": 5.75,
+    "regular_price": "5,75 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=7845&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/the-vert-chine-yunnan-7845.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/the-vert-chine-yunnan-7845.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "7845",
+    "price": "4,00 €",
+    "reference": "BFI086",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Thé vert corsé Yunnan BIO</h3>\n<p></p>\n<p>Un brin de vert dans un gant de velours.</p>\n<p></p>\n<div class=\"h3\">Le Moka des thés</div>",
+    "link_rewrite": "the-vert-chine-yunnan",
+    "name": "Thé Vert Yunnan",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/the-vert-chine-yunnan-7845.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media3.les2marmottes.com/22298-cart_default/the-vert-chine-yunnan.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/22298-small_default/the-vert-chine-yunnan.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/22298-medium_default/the-vert-chine-yunnan.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media3.les2marmottes.com/22298-home_default/the-vert-chine-yunnan.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media1.les2marmottes.com/22298-large_default/the-vert-chine-yunnan.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/22298-thickbox_default/the-vert-chine-yunnan.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media3.les2marmottes.com/22298-cart_default/the-vert-chine-yunnan.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media3.les2marmottes.com/22298-home_default/the-vert-chine-yunnan.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/22298-thickbox_default/the-vert-chine-yunnan.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Cet article fait partie de la sélection vide-terrier",
+      "cover": "1",
+      "id_image": "22298",
+      "position": "8",
+      "associatedVariants": []
+    },
+    "has_discount": true,
+    "discount_type": "amount",
+    "discount_percentage": "-165%",
+    "discount_percentage_absolute": "165%",
+    "discount_amount": "1,65 €",
+    "price_amount": 4,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": "1,65 €"
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=91&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/duo-de-menthes-91.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/duo-de-menthes-91.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "91",
+    "price": "5,55 €",
+    "reference": "221",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion BIO menthe douce et menthe poivrée</h3>\n<p></p>\n<p>Pour révéler votre nature plutôt douce... ou poivrée ?</p>\n<p></p>\n<div class=\"h3\">Fraîcheur maximale !</div>",
+    "link_rewrite": "duo-de-menthes",
+    "name": "Infusion Duo de Menthes",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/duo-de-menthes-91.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/14132-cart_default/duo-de-menthes.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media3.les2marmottes.com/14132-small_default/duo-de-menthes.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/14132-medium_default/duo-de-menthes.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/14132-home_default/duo-de-menthes.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/14132-large_default/duo-de-menthes.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/14132-thickbox_default/duo-de-menthes.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/14132-cart_default/duo-de-menthes.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/14132-home_default/duo-de-menthes.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/14132-thickbox_default/duo-de-menthes.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion duo de menthes Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "14132",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.55,
+    "regular_price_amount": 5.55,
+    "regular_price": "5,55 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=7015&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/on-dirait-le-sud-tisane-thym-origan-romarin-7015.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/on-dirait-le-sud-tisane-thym-origan-romarin-7015.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "7015",
+    "price": "4,00 €",
+    "reference": "BFI079",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion au thym et à l’origan</h3>\n<p></p>\n<p>Entre le thym et l'origan, on entendrait presque chanter les cigales !</p>",
+    "link_rewrite": "on-dirait-le-sud-tisane-thym-origan-romarin",
+    "name": "On Dirait le Sud",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/on-dirait-le-sud-tisane-thym-origan-romarin-7015.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media3.les2marmottes.com/22299-cart_default/on-dirait-le-sud-tisane-thym-origan-romarin.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/22299-small_default/on-dirait-le-sud-tisane-thym-origan-romarin.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media2.les2marmottes.com/22299-medium_default/on-dirait-le-sud-tisane-thym-origan-romarin.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/22299-home_default/on-dirait-le-sud-tisane-thym-origan-romarin.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/22299-large_default/on-dirait-le-sud-tisane-thym-origan-romarin.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/22299-thickbox_default/on-dirait-le-sud-tisane-thym-origan-romarin.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media3.les2marmottes.com/22299-cart_default/on-dirait-le-sud-tisane-thym-origan-romarin.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/22299-home_default/on-dirait-le-sud-tisane-thym-origan-romarin.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/22299-thickbox_default/on-dirait-le-sud-tisane-thym-origan-romarin.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Cet article fait partie de la sélection vide-terrier",
+      "cover": "1",
+      "id_image": "22299",
+      "position": "8",
+      "associatedVariants": []
+    },
+    "has_discount": true,
+    "discount_type": "amount",
+    "discount_percentage": "-165%",
+    "discount_percentage_absolute": "165%",
+    "discount_amount": "1,65 €",
+    "price_amount": 4,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": "1,65 €"
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=186&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/rooibos-cassis-186.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/rooibos-cassis-186.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "186",
+    "price": "5,65 €",
+    "reference": "362",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion BIO aux feuilles de rooibos et de cassis</h3>\n<p></p>\n<p>L’infusion mi-arbuste mi-feuille qui envoie du bois !</p>",
+    "link_rewrite": "rooibos-cassis",
+    "name": "Rooibos Cassis",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/rooibos-cassis-186.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/14643-cart_default/rooibos-cassis.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/14643-small_default/rooibos-cassis.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media2.les2marmottes.com/14643-medium_default/rooibos-cassis.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media3.les2marmottes.com/14643-home_default/rooibos-cassis.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media1.les2marmottes.com/14643-large_default/rooibos-cassis.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/14643-thickbox_default/rooibos-cassis.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/14643-cart_default/rooibos-cassis.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media3.les2marmottes.com/14643-home_default/rooibos-cassis.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/14643-thickbox_default/rooibos-cassis.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Rooibos et feuilles de cassis, infusion sans théine",
+      "cover": "1",
+      "id_image": "14643",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.65,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=3961&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/tutti-fleuri-framboise-sureau-hibiscus-3961.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/tutti-fleuri-framboise-sureau-hibiscus-3961.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "3961",
+    "price": "4,00 €",
+    "reference": "BFI071",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion Framboise, Sureau et Hibiscus</h3>\n<p>Cette infusion fruitée, c’est vraiment le bouquet !</p>",
+    "link_rewrite": "tutti-fleuri-framboise-sureau-hibiscus",
+    "name": "Infusion Tutti Fleuri",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/tutti-fleuri-framboise-sureau-hibiscus-3961.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media1.les2marmottes.com/22300-cart_default/tutti-fleuri-framboise-sureau-hibiscus.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media2.les2marmottes.com/22300-small_default/tutti-fleuri-framboise-sureau-hibiscus.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media2.les2marmottes.com/22300-medium_default/tutti-fleuri-framboise-sureau-hibiscus.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media3.les2marmottes.com/22300-home_default/tutti-fleuri-framboise-sureau-hibiscus.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/22300-large_default/tutti-fleuri-framboise-sureau-hibiscus.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/22300-thickbox_default/tutti-fleuri-framboise-sureau-hibiscus.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media1.les2marmottes.com/22300-cart_default/tutti-fleuri-framboise-sureau-hibiscus.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media3.les2marmottes.com/22300-home_default/tutti-fleuri-framboise-sureau-hibiscus.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/22300-thickbox_default/tutti-fleuri-framboise-sureau-hibiscus.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Cet article fait partie de la sélection vide-terrier",
+      "cover": "1",
+      "id_image": "22300",
+      "position": "8",
+      "associatedVariants": []
+    },
+    "has_discount": true,
+    "discount_type": "amount",
+    "discount_percentage": "-165%",
+    "discount_percentage_absolute": "165%",
+    "discount_amount": "1,65 €",
+    "price_amount": 4,
+    "regular_price_amount": 5.65,
+    "regular_price": "5,65 €",
+    "discount_to_display": "1,65 €"
+  },
+  {
+    "add_to_cart_url": "https://www.les2marmottes.com/fr/panier?add=1&id_product=59&id_product_attribute=0&token=af376e218145db8cfc428c34c92e625a",
+    "url": "https://www.les2marmottes.com/fr/romarin-59.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/romarin-59.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "59",
+    "price": "5,45 €",
+    "reference": "14",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Infusion aux feuilles de romarin BIO</h3>\n<p></p>\n<p>Tous les chemins mènent au <strong>ROMARIN</strong>, un ami qui vous veut du bien dès le matin.</p>",
+    "link_rewrite": "romarin",
+    "name": "Infusion Romarin",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/romarin-59.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/1740-cart_default/romarin.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/1740-small_default/romarin.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/1740-medium_default/romarin.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/1740-home_default/romarin.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media3.les2marmottes.com/1740-large_default/romarin.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media3.les2marmottes.com/1740-thickbox_default/romarin.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/1740-cart_default/romarin.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/1740-home_default/romarin.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media3.les2marmottes.com/1740-thickbox_default/romarin.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "Infusion Romarin 100% plantes Les 2 Marmottes - Made in France - Sans arômes ajoutés",
+      "cover": "1",
+      "id_image": "1740",
+      "position": "2",
+      "associatedVariants": []
+    },
+    "has_discount": false,
+    "discount_type": null,
+    "discount_percentage": null,
+    "discount_percentage_absolute": null,
+    "discount_amount": null,
+    "price_amount": 5.45,
+    "regular_price_amount": 5.45,
+    "regular_price": "5,45 €",
+    "discount_to_display": null
+  },
+  {
+    "add_to_cart_url": null,
+    "url": "https://www.les2marmottes.com/fr/marmottes-en-fete-tisane-de-noel-epices-orange-12670.html",
+    "canonical_url": "https://www.les2marmottes.com/fr/marmottes-en-fete-tisane-de-noel-epices-orange-12670.html",
+    "labels": {
+      "tax_short": "TTC",
+      "tax_long": "TTC"
+    },
+    "main_variants": [],
+    "id_product": "12670",
+    "price": "4,00 €",
+    "reference": "BFI104",
+    "active": "1",
+    "description_short": "<h3 class=\"h2\">Tisane de Noël</h3>\n<p></p>\n<p>Orange, cannelle et gingembre… Les saveurs festives s'invitent au terrier.</p>",
+    "link_rewrite": "marmottes-en-fete-tisane-de-noel-epices-orange",
+    "name": "Infusion Marmottes en Fête",
+    "manufacturer_name": "Les 2 Marmottes",
+    "link": "https://www.les2marmottes.com/fr/marmottes-en-fete-tisane-de-noel-epices-orange-12670.html",
+    "rate": 5.5,
+    "tax_name": "TVA FR 5.5%",
+    "unit_price": "",
+    "cover": {
+      "bySize": {
+        "cart_default": {
+          "url": "https://media2.les2marmottes.com/22303-cart_default/marmottes-en-fete-tisane-de-noel-epices-orange.jpg",
+          "width": 88,
+          "height": 88
+        },
+        "small_default": {
+          "url": "https://media1.les2marmottes.com/22303-small_default/marmottes-en-fete-tisane-de-noel-epices-orange.jpg",
+          "width": 125,
+          "height": 125
+        },
+        "medium_default": {
+          "url": "https://media1.les2marmottes.com/22303-medium_default/marmottes-en-fete-tisane-de-noel-epices-orange.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "home_default": {
+          "url": "https://media2.les2marmottes.com/22303-home_default/marmottes-en-fete-tisane-de-noel-epices-orange.jpg",
+          "width": 370,
+          "height": 370
+        },
+        "large_default": {
+          "url": "https://media1.les2marmottes.com/22303-large_default/marmottes-en-fete-tisane-de-noel-epices-orange.jpg",
+          "width": 560,
+          "height": 560
+        },
+        "thickbox_default": {
+          "url": "https://media1.les2marmottes.com/22303-thickbox_default/marmottes-en-fete-tisane-de-noel-epices-orange.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      "small": {
+        "url": "https://media2.les2marmottes.com/22303-cart_default/marmottes-en-fete-tisane-de-noel-epices-orange.jpg",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://media2.les2marmottes.com/22303-home_default/marmottes-en-fete-tisane-de-noel-epices-orange.jpg",
+        "width": 370,
+        "height": 370
+      },
+      "large": {
+        "url": "https://media1.les2marmottes.com/22303-thickbox_default/marmottes-en-fete-tisane-de-noel-epices-orange.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      "legend": "épuisé",
+      "cover": "1",
+      "id_image": "22303",
+      "position": "9",
+      "associatedVariants": []
+    },
+    "has_discount": true,
+    "discount_type": "amount",
+    "discount_percentage": "-290%",
+    "discount_percentage_absolute": "290%",
+    "discount_amount": "2,90 €",
+    "price_amount": 4,
+    "regular_price_amount": 6.900017,
+    "regular_price": "6,90 €",
+    "discount_to_display": "2,90 €"
+  }
+]
