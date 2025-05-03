@@ -23,20 +23,30 @@ const orderTisaneData = (dataElement) => {
   tisaneMetaData["name"] = dataElement["name"];
   tisaneMetaData["picURL"] = dataElement["cover"]["large"]["url"];
   tisaneMetaData["id"] = dataElement["id_product"];
+  tisaneMetaData["description"] = dataElement["description_short"];
   return tisaneMetaData;
 };
+
+
+const extractTxtFromHTML = (txt) => {
+  const txtModified = txt.split("</h3")[0] + "</h3>";
+  var span = document.createElement('span');
+  span.innerHTML = txtModified;
+  return span.textContent;
+}
 
 
 
 const displayTisanes = (tisaneData) => {
   rankingContainerElement.innerHTML += `
   <div id="tisane-${tisaneData['id']}" class="tisane-card">
-    <img class="tisane-pic" src="${tisaneData["picURL"]}">
+    <div class="pic-container"><img class="tisane-pic" src="${tisaneData["picURL"]}"></div>
     <div class="tisane-card-bar"></div>
     <h2 class="tisane-card-name">${tisaneData['name']}</h2>
+    <div class="tisane-description">${extractTxtFromHTML(tisaneData["description"])}</div>
     <div class="card-rating-block">
-      <div id="tisane-${tisaneData['id']}-rating" class="current-rating"></div>
-      <button type="button" class="tisane-card-rating-btn">Add rating</button>
+      <div class="rating-title">Your rating:</div>
+      <div class="ranking-block"><input id="tisane-${tisaneData['id']}-rating-form" class="tisane-rating-form" type="range" min=0 max=5 step=0.5 value=0 oninput="this.style='--val:'+this.value"></div>
     </div>
   </div>
   `;
