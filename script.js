@@ -1,6 +1,10 @@
 const rankingContainerElement = document.getElementById("ranking-container");
 const statsTotalNb = document.getElementById("stat-total-count");
 
+var tisaneRatings = {};
+var tisaneSaveBtn = {};
+var tisaneClearBtn = {};
+
 let data;
 const fetchData = async (path) => {
   try {
@@ -11,9 +15,12 @@ const fetchData = async (path) => {
       const tisaneData = orderTisaneData(tisane); 
       displayTisanes(tisaneData);
     });
+
+    customRatingsBtn();
     makeStats(data);
+
   } catch (err) {
-    console.log("Fetching data failed");
+    console.log(err);
   }
 };
 
@@ -46,10 +53,37 @@ const displayTisanes = (tisaneData) => {
     <div class="tisane-description">${extractTxtFromHTML(tisaneData["description"])}</div>
     <div class="card-rating-block">
       <div class="rating-title">Your rating:</div>
-      <div class="ranking-block"><input id="tisane-${tisaneData['id']}-rating-form" class="tisane-rating-form" type="range" min=0 max=5 step=0.5 value=0 oninput="this.style='--val:'+this.value"></div>
+      <div class="ranking-block">
+        <input id="tisane-${tisaneData['id']}-rating-form" class="tisane-rating-form" type="range" min=0 max=5 step=0.5 oninput="this.style='--val:'+this.value" oninput="value=this.value">
+        <button id="tisane-${tisaneData['id']}-save-btn" class="save-rating-btn">Save</button>
+        <button id="tisane-${tisaneData['id']}-clear-btn" class="clear-rating-btn">Clear</button>
+      </div>
     </div>
   </div>
   `;
+
+};
+
+
+const customRatingsBtn = () => {
+  const idLst = data.map((el) => el["id_product"]);
+  var tisaneRating = idLst.map((el) => 0);
+
+  idLst.forEach((idVal) => {
+    tisaneRatings[idVal] = document.getElementById(`tisane-${idVal}-rating-form`);
+    tisaneSaveBtn[idVal] = document.getElementById(`tisane-${idVal}-save-btn`);
+    tisaneClearBtn[idVal] = document.getElementById(`tisane-${idVal}-clear-btn`);
+
+    tisaneClearBtn[idVal].addEventListener('click', () => {
+      tisaneRatings[idVal].style["cssText"] = "";
+    });
+
+    tisaneSaveBtn[idVal].addEventListener('click', () => {
+      const styleTxt = tisaneRatings[idVal].style["cssText"]; 
+      tisaneRating[idVal] = styleTxt !== "" ? parseFloat(styleTxt.split(": ")[1]) : 0;
+      console.log(tisaneRating[idVal]);
+    });
+  });
 };
 
 
