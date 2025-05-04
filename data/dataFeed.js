@@ -8,8 +8,6 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-const pathData = path.join(__dirname, 'data', 'liste-tisanes.json');
-
 
 app.get('/api/tisane-data', (req, res) => {
     const filePath = path.join(__dirname, 'liste-tisanes.json');
@@ -28,6 +26,13 @@ app.get('/api/tisane-data', (req, res) => {
             }
         }
     });
+});
+
+
+
+app.post('/api/save-ratings', (req, res) => {
+  const rankingDataPath = path.join(__dirname, 'ranking-tisanes.json');
+  fs.writeFileSync(rankingDataPath, JSON.stringify(req.body, null, 2))
 });
 
 

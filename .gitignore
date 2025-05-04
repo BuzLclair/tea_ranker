@@ -1,4 +1,5 @@
 data/node_modules/
 data/package-lock.json
 data/package.json
+data/ranking-tisane.json
 __pycache__
