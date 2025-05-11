@@ -45,7 +45,7 @@ h1 {
 #ranking-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: left;
   align-items: top;
   height: 40%;
   width: 100%;

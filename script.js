@@ -1,32 +1,48 @@
 const rankingContainerElement = document.getElementById("ranking-container");
+
 const statsTotalNb = document.getElementById("stat-total-count");
+const statsNbRated = document.getElementById("stat-number-rated");
+const statsAvgRating = document.getElementById("stat-avg-rating");
 
 const sourcePath = 'http://localhost:8000/api'
-const pathData = `${sourcePath}/tisane-data`;
-const saveData = `${sourcePath}/save-ratings`;
+const dataMethods = {
+  'pathData': `${sourcePath}/tisane-data`,
+  'saveData': `${sourcePath}/save-ratings`,
+  'getRatings': `${sourcePath}/get-ratings`,
+}
 
-var tisaneRatings = {};
-var tisaneRatingsClean = {};
-var tisaneSaveBtn = {};
-var tisaneClearBtn = {};
+
+let tisaneRatings = {};
+let tisaneRatingsClean = {};
+let tisaneSaveBtn = {};
+let tisaneClearBtn = {};
 
 let data;
+let ratingData;
 
 
 
 const fetchData = async () => {
-  
-
   try {
-    const res = await fetch(pathData);
-    data = await res.json();
+    const dataPromise = await fetch(dataMethods['pathData']);
+    data = await dataPromise.json();    
+    
+    const idsList = Object.values(data.map((el) => el["id_product"]));
+    const ratingDataQuery = await fetch(dataMethods['getRatings'], {
+        method: "POST",
+        body: JSON.stringify(idsList),
+        headers: {
+          "Content-type": "application/json; charset=UTF-8"
+        },
+    });
+    ratingData = await ratingDataQuery.json();
 
     data.forEach((tisane) => { 
-      const tisaneData = orderTisaneData(tisane); 
+      const tisaneData = orderTisaneData(tisane, ratingData); 
       displayTisanes(tisaneData);
     });
     customRatingsBtn();
-    makeStats(data);
+    makeStats(data, ratingData);
 
   } catch (err) {
     console.log(err);
@@ -35,15 +51,16 @@ const fetchData = async () => {
 
 
 
-
-
-
-const orderTisaneData = (dataElement) => {
+const orderTisaneData = (dataElement, ratingData) => {
   const tisaneMetaData = {};
+  const tisaneId = dataElement["id_product"];
+
   tisaneMetaData["name"] = dataElement["name"];
   tisaneMetaData["picURL"] = dataElement["cover"]["large"]["url"];
-  tisaneMetaData["id"] = dataElement["id_product"];
+  tisaneMetaData["id"] = tisaneId;
   tisaneMetaData["description"] = dataElement["description_short"];
+
+  tisaneMetaData["rating"] = typeof ratingData[tisaneId] !== "undefined" ? ratingData[tisaneId] : 0;
   return tisaneMetaData;
 };
 
@@ -67,7 +84,8 @@ const displayTisanes = (tisaneData) => {
     <div class="card-rating-block">
       <div class="rating-title">Your rating:</div>
       <div class="ranking-block">
-        <input id="tisane-${tisaneData['id']}-rating-form" class="tisane-rating-form" type="range" min=0 max=5 step=0.5 oninput="this.style='--val:'+this.value" oninput="value=this.value">
+        <input id="tisane-${tisaneData['id']}-rating-form" class="tisane-rating-form" type="range" min=0 max=5 step=0.5 
+        oninput="this.style='--val:'+this.value" oninput="value=this.value" style="--val: ${tisaneData['rating']};">
         <button id="tisane-${tisaneData['id']}-save-btn" class="save-rating-btn">Save</button>
         <button id="tisane-${tisaneData['id']}-clear-btn" class="clear-rating-btn">Clear</button>
       </div>
@@ -90,12 +108,14 @@ const customRatingsBtn = () => {
     tisaneClearBtn[idVal] = document.getElementById(`tisane-${idVal}-clear-btn`);
 
     tisaneClearBtn[idVal].addEventListener('click', () => {
-      tisaneRatings[idVal].style["cssText"] = "";
-      tisaneRatingsClean[idVal] = 0;
+      tisaneRatings[idVal].style["cssText"] = "--val: 0;";
+      ratingData[idVal] = 0;
+      makeStats(data, ratingData);
 
-      fetch(saveData, {
+
+      fetch(dataMethods['saveData'], {
         method: "POST",
-        body: JSON.stringify(tisaneRatingsClean),
+        body: JSON.stringify(ratingData),
         headers: {
           "Content-type": "application/json; charset=UTF-8"
         },
@@ -104,11 +124,12 @@ const customRatingsBtn = () => {
 
     tisaneSaveBtn[idVal].addEventListener('click', () => {
       const styleTxt = tisaneRatings[idVal].style["cssText"]; 
-      tisaneRatingsClean[idVal] = styleTxt !== "" ? parseFloat(styleTxt.split(": ")[1]) : 0;
+      ratingData[idVal] = styleTxt !== "" ? parseFloat(styleTxt.split(": ")[1]) : 0;
+      makeStats(data, ratingData);
 
-      fetch(saveData, {
+      fetch(dataMethods['saveData'], {
         method: "POST",
-        body: JSON.stringify(tisaneRatingsClean),
+        body: JSON.stringify(ratingData),
         headers: {
           "Content-type": "application/json; charset=UTF-8"
         },
@@ -120,9 +141,15 @@ const customRatingsBtn = () => {
 
 
 
-const makeStats = (data) => {
+const makeStats = (data, ratingData) => {
   const totalNb = data.length;
-  statsTotalNb.textContent += totalNb;
+  statsTotalNb.textContent = `# Total: ${totalNb}`;
+
+  const nbRated = Object.values(ratingData).filter((el) => el !== 0);
+  statsNbRated.textContent = `# Rated: ${nbRated.length}`;
+
+  const avgRating =  nbRated.length !== 0 ? (nbRated.reduce((a, b) => a + b) / nbRated.length).toFixed(1) : "";
+  statsAvgRating.textContent = `Avg rating: ${avgRating}`;
 };
 
 
