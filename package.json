@@ -1,0 +1,20 @@
+{
+  "name": "tisanesranker",
+  "version": "1.0.0",
+  "main": "data/dataFeed.js",  
+  "dependencies": {
+    "axios": "1.9.0",
+    "cors": "2.8.5",
+    "express": "5.1.0",
+    "fs": "0.0.1-security",
+    "open": "10.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuzLclair/tisanes_ranker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BuzLclair/tisanes_ranker/issues"
+  },
+  "homepage": "https://github.com/BuzLclair/tisanes_ranker#readme"
+}
